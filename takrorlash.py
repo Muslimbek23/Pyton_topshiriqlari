@@ -30,3 +30,8 @@ for taom in buyurtmalar:
         # print(f"Kechirasiz, menuda {taom} yo'q")
         
 print(f"Menyuda { borlar } bor, {yuqlar} esa yuq")
+
+
+
+
+print('TEKSHIR')
